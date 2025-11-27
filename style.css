@@ -51,6 +51,11 @@ body {
     font-weight: 800;
 }
 
+.card-container .text-container h2.title:hover {
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+
 .card-container .text-container p.paragraph {
     font-weight: 500;
 }
